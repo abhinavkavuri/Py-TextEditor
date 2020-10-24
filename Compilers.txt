@@ -1,0 +1,4 @@
+C:/MinGW/bin/g++.exe
+C:/Users/Clay/AppData/Local/Programs/Python/Python38/python.exe
+C:/Swamipp/swami++.exe
+C:/MinGW/bin/gcc.exe
