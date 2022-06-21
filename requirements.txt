@@ -1,4 +1,4 @@
 gTTS==2.0.3
 goslate==1.5.1
-numpy==1.16.4
+numpy==1.22.0
 PyDictionary==1.5.2
